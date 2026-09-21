@@ -1,50 +1,42 @@
------BEGIN OPENSSH PRIVATE KEY-----
-b3BlbnNzaC1rZXktdjEAAAAACmFlczI1Ni1jdHIAAAAGYmNyeXB0AAAAGAAAABA8RuGWnw
-biSFOYjKgHcYyBAAAAGAAAAAEAAAIXAAAAB3NzaC1yc2EAAAADAQABAAACAQDpDC7uSguT
-9sa51ecHXv16xOhffHv/o/Xiig4tRfcK/x613MUDhD9d2Ma4D4r+PDybhJA0dSlHQ5KtKu
-Iyl4DE3h5A3AEWn+DlOFQQgEWYcxz9KVTN9H9JCsBtVY1EwC/SJBqlaxYjzKAiV1sc8Pr/
-wz2E/34dV7O/xv0zLEiMvIOw2snKEatd+nYS4Hik6NIUU1plBnTNJ5tBJovCv8ZRfigOpv
-IzLpIiO4Eq54NIeqnQl9x9rfaLeotttyEufCmcWE6HLdHUsYbgA+6tIpamUMXDq8dmWCN2
-dyOmPE0k1vODpoi0qdojsncl9fXhyba3MVL2HrAl0MgiuNvHCRnbpewEaYBMYpfx6Fq2G2
-NZTnIm277/p739hWoqfLm4dRpkYJM140OMNO8T8qUkKzWobaupx1CMY7fD7Vvgb0tPZ6Kl
-AQ4arg5PjflvKdHy1B7D/DArL/zKGFBa35A+m/JRaB279JvMzYtoiKHqkyanescj9bbvdg
-hA2KcZY4hO9v2eNgySy6hhxf2hDc++Mtomk912V1cbkVWY67AL9861IGvtGpvXG+XXcA0D
-ErqPZgt7+NkuGHHUvnY5fTAWkwMJqxY9NicGJkETsscqBpHrioPspduQMDwO0fdKMODTCk
-ticJARa9N/drWTfU75YVa+rYiKQVZJfhDLC1ZeFPHqoQAAB0CJsSLyQ8js3FTqr90JkpU6
-L961dYgBovk6UcI34Ip1uuOAWj8VGFNM0REAQofSAFhxdXnU/GPnR+wVkldjwpULMeusao
-XoQqx0MIFP4Gcn60dPQ/RJaXluZrS3HSOvXBInyAaCRezHBXqa/avkXuJInUZJ41xWmvSA
-T7kjyqiRORrkol8S9xAB9MVBu88rgTehwzCFGKC9/FlyLXZlc06AaVo+SZ9gxQ+BV3xkmg
-cL0xb3HiTBAB8Bmhz+E9Mq+UA6bUd4PtVrIptbmj/g+tU/27WPAWbQpWj5dn6DQN6PaEe3
-GigbHh1pw79wZLkp3NP/0yfK5gK37567nSTCEV1lsNgckmTWl7yLxsGcrEeKbwbDionHI6
-drbgjpzU0nS6AV0brNLfw04lKVfgKiBw+h3BLauF5FiXx0QRb8GtIe+lCl2hC7LwQBsw/W
-3RidEasWoJvQ76WlI5uT1wrZVV61BgNuv4h9wdgP5AFEESgw0ZMcWOBrKBMW4h1Z43qEOO
-DEWA1wHEY5mK5ztqfbGSfYxgszZTbvuHUCPnFjB1guLoGbuB0CjeHss5jlGGuugg5GAt4o
-zfIzgEwVgp+31sExaTBUBEd9y+EqdeeyiBF1L+y8bRlf4WE8Y8ONI1Ka2zaIh1EPoSvBPD
-n/+mT22DF7kSIh5dWEuL88YObvYw62c8J4LDdia4DoSifN0K7gsSeyUFRzV9veZEW41L71
-VbQ0tvAMhi6EBY5BZE1llA0yk7hWG0fgUUsQRSKb4QFnClMGdiGNLce4vWDnl9Y/zasToE
-hSU3sj9NzMd7LVnr4zhoFfYsLQfiNaXTAzwakqr2iHC8Zj1wYbUQptd2nBHl968Wq6omDe
-Xf6IP5coWNQujffd3yomh8HNKgy7wKlxJpy2ltRHnLkbbyL4AUNW3YZF9NMBjSXRkebzq6
-3l71/igKR6w4o14effBE7Uq28/2U99RDBMkM+JG78STh+99E5YvvG617UJmFza2NsNl+R7
-rJ5yeMFIpnRywHQidttjOqr3B+XH0PehrBNwOv/2jBFu3nzOSJvHC/zrt6g2AMJpBhOXGw
-SnCfwwIXgAQcCe0gAimLkLeQy8p5sgEzgxFylijgI8ouBpPDrjaTL6LgYMk3NiNibKjzfb
-MoYa9T16+ClPfqF6XJsTR6YAKnUjAHwkeo7yIG4YYOqOSFG6kRYXjyR1CKfIE7JH+6SQhn
-ixCDfaEJ4uhx7jV3Y665WiujNoOUzA1LrkMOGcUNI+iS3Jokfg8HFCDoBktyJqehSe/Ni4
-kQlG+LTh2t3o6Plwziz7AHbtl4Fn6hTXPVol1p2h3hArfGGLbSuV32BOlOvII/fWxsEc0z
-RuYDL8SRb11lO/ILM5ri56a3Lad24OQWBhTZI2ufsyDy0u+FCsmX5VkSgseJyFbWE0kJvJ
-sYby9tqMvuxcKhK35oR1Mj4TT5MfIEA0c+i8YopzmOf0/VKYfyCy7yMu7Mop5XuJT6FGL2
-4JviXximXeDhZzXObk2nzGqrnP3ycXjS9gyQbzyjc///ZjBXAlOJKYaNQ+dQPUVRVy2e25
-+IybnCNBupYxTFqcNoYfZkZ2vqUhFWEuElZDwduhxwzzbYd8Ce3XkLRa8eEUUDjFt+VhEo
-9MViFnwMP/RyWubmjlRnFo5y6WlV92BqnjrpuLA4ctbeiBwbbchvPxuoq305iz4AHZUDi/
-uM2IFsXLrs6niphX1PAPAtb+ds4QWnuk05aqsqvKAQoF2JP4gZ5lTK1g8zqEsiv/XrFv2F
-Q++asipn0IKo+bDcm+lZDPVuSS8cLVScS4nlZdB+zpKT1E9FPYQWN8jp14oZX9dgCGlh3L
-A/nBlM37pK89oEOmArOZFdt2JAxt+ieGCi9aGp8qW24bmcedA5iijJ6rdhM/gWAUroyoHY
-p/sA88ZQxzCCw159Fd3n+W8EyO/gnJkCozT/A5m/oz4lqzAa5ntUdJQvVukrpUAO6Sx+J7
-DIPV+0csxLo0hZos0Dx5656rj+pqBf9s27PKUOiAorv2z11wL/zrvJtW4oAuJaoPWeQPEh
-NfheMyb+ryaia3Pd52u3gl0rfk1KMieR0yKxW5LHNlT8mS8NU8Rzjvk4p+vVRngFCOxpjj
-0RrEzKedazhba+1TwH493EUAw6Dqo1GxcLog7QZRk+GajwJNCNus4XBPqhSjLKhQwf6wNQ
-Nene0CQRQCUE44MTMsWW3lvjOMSrpWVgUSu9N4n2H8HKO2Q76hW6lNGtp6/NqYaV7vYCLt
-jCcylYnMqlJjurGBRzQvpAvxKceGiXwjLlH4mrhTkg6hP+E3fdVecHPQbkioxujeT66I2R
-l4c3xMQQqvjwjSCptfLtLD7WiSpw32g710fBH1uMFVj7hT3UW/vp5v8FIQvo6XIY59cfUQ
-HeD6SzOvMOx2N/INxyYxmq/79OLFtx0C/xCxWW1neL4yf6xiP44D3wCLB1QofyFTHSK8/e
-w5Wg==
------END OPENSSH PRIVATE KEY-----
+请按以下顺序工作：
+
+一、先判断内容
+1. 提取材料中的事实、数字、时间、对象、比较关系、因果解释、案例和来源。
+2. 判断每页最值得回答的一个问题，例如：规模有多大、发生了什么变化、差异在哪里、增长由什么构成、过程如何产生结果、一个案例证明了什么。
+3. 每页只设一个主要论点。标题可以是有证据支持的结论；若材料不足以支持结论，就用准确的主题标题。
+4. 不得补造数字、原因、样本量或来源。缺失的关键口径标为“待补充”。
+
+二、再选择版式，不能预设每页都是同一种结构
+根据内容关系，从以下方式中选择，并允许组合或调整：
+
+- 趋势型：一张占主导的时间序列图，旁边放关键拐点、增速和简短解释。
+- 对比型：用并排图表、排序条形图或对照表呈现对象差异，突出比较基准。
+- 构成型：用堆叠图、矩阵或分层结构展示总量由哪些部分组成，并标清占比及总量。
+- 驱动型：把结果放在视觉终点，前面展示 2–4 个有数据支撑的驱动因素及其作用关系。
+- 漏斗或流程型：按照真实阶段展示数量变化、转化率和流失点。
+- 规模型：以一个最重要的数字建立视觉焦点，周围用覆盖范围、细分结构和时间口径支撑它。
+- 案例型：按“背景／采取的行动／可观察的结果”组织，照片、引述或现场材料只在能增加可信度时使用。
+- 复杂分析型：可采用一张主图加小型辅助图、图表加简表，或上方总览加下方细分；不要为了整齐强行等分页面。
+
+连续多页时，主动改变主图位置、图文比例和阅读路径。相邻页面不要重复相同的三栏、四卡片或“大数字＋小图标”排法。变化应来自内容关系，不靠装饰制造变化。
+
+三、把证据编辑成可读的页面
+1. 为每页确定一个视觉主角：主图、关键数字、对照表、流程或案例证据。它应占据页面主要面积。
+2. 其他元素必须回答读者接下来的问题，例如“与谁相比”“为什么变化”“覆盖哪些群体”“结果是否可靠”。
+3. 图表直接标注关键数值、单位、时间和类别；尽量让读者不依赖图例也能读懂。
+4. 保留影响理解的基数、统计口径、样本量、异常值和限制条件。来源放在清晰但不抢眼的位置。
+5. 文字要短，但不能空泛。优先写具体对象、动作、数字和结果，避免口号及套话。
+6. 信息密度可以较高，但要有层级：先看到结论或主题，再读主要证据，最后读解释与来源。不要把所有文字缩到很小来追求“一页装完”；必要时拆页。
+
+四、视觉要求
+使用专业、克制的商务演示风格：清晰的标题层级，稳定的边距，对齐的图表与文字，有限的强调色。用色彩突出数据关系，而不是给每个模块随机上色。少用圆角卡片、阴影、渐变、装饰性图标和无意义箭头。不要生成看起来像软件仪表盘的页面。图表、表格和标注应可编辑。
+
+五、交付方式
+先给出逐页方案，每页包括：
+- 本页要回答的问题
+- 一句话核心信息
+- 选用的版式及选择理由
+- 页面区域安排（用文字说明各区域的位置和大致比例）
+- 主图表或主证据及其具体字段
+- 辅助信息、注释和来源
+- 需要补充或核实的数据
